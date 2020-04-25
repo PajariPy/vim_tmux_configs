@@ -6,5 +6,5 @@ https://github.com/ycm-core/YouCompleteMe/wiki/Building-Vim-from-source
 
 Map caps to esc and back
 
-setxkbmap -option caps:escape
+setxkbmap -option caps:escape\n
 setxkbmap -optionk
